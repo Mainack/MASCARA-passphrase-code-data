@@ -8,8 +8,6 @@ You can read the paper [here](https://cse.iitkgp.ac.in/~mainack/publications/mas
 1. This repository contains (in ["DATASET-user-general-passphrase"](https://github.com/Mainack/MASCARA-passphrase-gen-code-data/tree/main/DATASET-user-generated-passphrases) folder) the first-ever public dataset of 72,999 user-generated in-use passphrases. To know more about the data (and generation code) see the [DATASET README](https://github.com/Mainack/MASCARA-passphrase-gen-code-data/blob/main/DATASET-user-generated-passphrases/README.md). 
 1. This repositotry also contains (in ["CODE-MASCARA-MEMORABLE-PASSPHRASE-GENERATION"](https://github.com/Mainack/MASCARA-passphrase-gen-code-data/tree/main/CODE-MASCARA-MEMORABLE-PASSPHRASE-GENERATION) folder) the code (and necessary data) of MASCARA, our system for automatically generating memorable yet secure passphrases. see the [MASCARA README](https://github.com/Mainack/MASCARA-passphrase-gen-code-data/blob/main/CODE-MASCARA-MEMORABLE-PASSPHRASE-GENERATION/README.md). 
 
-More details coming soon...
-
 1. **Please cite our paper in any published work that uses any of these resources.**
 
 
@@ -23,3 +21,5 @@ More details coming soon...
   year = {2023}
 }
 ~~~
+
+More details coming soon...
