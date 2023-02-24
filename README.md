@@ -1,4 +1,5 @@
-# MASCARA: Memorable and Secure Passphrase Generation 
+# DATASET FOR IN-USE LARGE-SCALE PASSPHARASES AND MASCARA, A SYSTEM TO AUTO-GENERATE MEMORABLE AND SECURE PASSPHRASES
+
 Release of code and data for MASCARA, a memorable , yet secure passphrase generation algorithm. The paper appeared in AsiaCCS 2023
 
 1. This repository contains data from *Avirup Mukherjee, Kousshik Murali, Shivam Kumar Jha, Niloy Ganguly, Rahul Chatterjee, Mainack Mondal. 2023. "MASCARA: Systematically Generating Memorable And Secure Passphrases." ACM ASIACCS'23.* 
