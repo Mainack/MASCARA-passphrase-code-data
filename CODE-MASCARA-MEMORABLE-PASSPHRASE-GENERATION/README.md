@@ -16,5 +16,5 @@ The first time `mascara.py` is run, uncomment `lines 9,10,11` so that the requir
 
 ## Running
 
-To make the program straightforward, we didn't support any cmdline parameters, so it can be run using `python mascara.py` from this folder. This generates 30 passphrases of different lengths as defined in line 137. To control the number of passphrases generated and their length, modify the variable in line 137 accordingly.
+To make the program straightforward, we didn't support any cmdline parameters, so it can be run using `python mascara.py` from this folder. This generates 30 passphrases of different lengths as defined in `line 137`. To control the number of passphrases generated and their length, modify the variable in `line 137` accordingly.
 
