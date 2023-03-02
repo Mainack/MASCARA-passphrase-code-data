@@ -8,6 +8,7 @@ from nltk.corpus import stopwords
 
 # nltk.download('punkt')
 # nltk.download('averaged_perceptron_tagger')
+# nltk.download('stopwords')
 
 
 # data import
@@ -132,12 +133,12 @@ def makesent(unigram, bigram, graph, size):
 
 
 if __name__ == '__main__':
-    #lengths of passphraes to be generated
+    #lengths of passphraes to be generated, modify this accordingly
     lengths=[4, 4, 5, 4, 5, 6, 6, 7, 8, 9, 10, 11, 12, 15, 6, 8, 9, 5, 6, 4, 4, 7, 9, 5, 12, 10, 15]
     uni, bi = get_unigram(), get_bigram()
     graph = get_graph(uni, bi)
 
-    for item in lengths[:20]:              
+    for item in lengths:              
         # call to generate passphrase
         string = ""
         while len(string.split()) != item:
