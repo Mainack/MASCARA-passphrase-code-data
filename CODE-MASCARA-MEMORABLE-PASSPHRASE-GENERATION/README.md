@@ -1,6 +1,6 @@
 # CODE & DATA FOR MASCARA: Memorable and Secure Passphrase Generation
 
-The file `mascara.py` is the underlying code used to generate memorable yet secure passphrases as presented in our [ACM ASIACCS'23 paper](https://cse.iitkgp.ac.in/~mainack/publications/mascara-2023-asiaccs.pdf). The running instructions are below for running MASCARA. 
+The file `mascara.py` is the underlying code used to generate memorable yet secure passphrases as presented in our [ACM ASIACCS'23 paper](https://cse.iitkgp.ac.in/~mainack/publications/mascara-2023-asiaccs.pdf). The  instructions are below for running MASCARA. 
 
 ## Running instructions for MASCARA
 
