@@ -101,7 +101,7 @@ if __name__ == '__main__':
     names, cities, countries, gerunds, lw = loadWords()
     out = open('segmented-passphrases.csv','w', newline='')
     writer = csv.writer(out)
-    writer.writerow(["Passphrase", "Original Password", "count"])
+    writer.writerow(["Original Password", "Passphrase", "count"])
     for line in open('data/orig-pw-w-freq.txt'):
         loop+=1
         line = line.strip()
