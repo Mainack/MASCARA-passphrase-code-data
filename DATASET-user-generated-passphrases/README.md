@@ -1,4 +1,4 @@
-# CODE and DATA FOR EXTRACTING 73K REAL-WORLD IN USE PASSPHRASES
+# CODE and DATA FOR EXTRACTING ~73K REAL-WORLD IN-USE PASSPHRASES
 
 This repository contains data of 72,999 User-generated passphrases that are collected by segmenting in-use passwords. More details about segmentation and the passwords are in our [ACM ASIACCS'23 paper ](https://cse.iitkgp.ac.in/~mainack/publications/mascara-2023-asiaccs.pdf). 
 
